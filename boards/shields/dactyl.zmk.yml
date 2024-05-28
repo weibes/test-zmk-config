@@ -3,7 +3,7 @@ id: dactyl
 name: Dactyl Manuform 6x4
 type: shield
 url: https://github.com/baodz1805/zmk-config
-requies: [pro_micro]
+requies:  - pro_micro
 features:
   - keys
 siblings:
