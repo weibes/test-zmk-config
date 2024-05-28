@@ -1,0 +1,11 @@
+file_format: "1"
+id: dactyl
+name: Dactyl Manuform 6x4
+type: shield
+url: https://github.com/weibes/dactyl-config
+requies: [pro_micro]
+features:
+  - keys
+siblings:
+  - dactyl_left
+  - dactyl_right
